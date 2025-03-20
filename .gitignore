@@ -27,3 +27,6 @@ ExportedObj/
 *.aab
 *.unitypackage
 *.app
+
+/.vscode/
+/.vs/
